@@ -1,0 +1,17 @@
+firefox,important
+python3,important
+geekbench,important
+chrome,important
+kded6,medium
+kwin_wayland,low
+baloo_file,low
+plasmashell,low
+zed-editor,important
+virtualbox,medium
+zsh,important
+Xwayland,high
+krunner,high
+msedge,important
+pipewire,important
+agent,low
+node,medium
